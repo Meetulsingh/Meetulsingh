@@ -35,6 +35,9 @@ I'm a passionate Final Year Student at Manipal University who loves to Code With
 ## 📊 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meetulsingh&layout=compact&theme=radical)](https://github.com/Meetulsingh/github-readme-stats)
 
+## 🌈 Stay Positive!
+Remember, every challenge you face is an opportunity to learn and grow. Embrace the journey, stay curious, and keep coding with passion! ✨
+
 
 Feel free to reach out and connect! 😄
 
