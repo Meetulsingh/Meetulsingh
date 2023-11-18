@@ -28,8 +28,9 @@ I'm a passionate Final Year Student at Manipal University who loves to Code With
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
 
 ## 🌟 Featured Projects
-1. [Project 1]((https://github.com/Meetulsingh/ChatClub---RealTime-Chat-App))
-2. [Project 2]((https://github.com/Meetulsingh/BookStore-Project))
+1. [Project 1](https://github.com/Meetulsingh/ChatClub---RealTime-Chat-App)
+2. [Project 2](https://github.com/Meetulsingh/BookStore-Project)
+
 
 Feel free to reach out and connect! 😄
 
