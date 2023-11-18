@@ -32,5 +32,9 @@ I'm a passionate Final Year Student at Manipal University who loves to Code With
 2. [Project 2](https://github.com/Meetulsingh/BookStore-Project)
 
 
+## 📊 Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meetulsingh&layout=compact&theme=radical)](https://github.com/Meetulsingh/github-readme-stats)
+
+
 Feel free to reach out and connect! 😄
 
