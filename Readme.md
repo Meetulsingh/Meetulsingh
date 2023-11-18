@@ -15,9 +15,7 @@ I'm a passionate Final Year Student at Manipal University who loves to Code With
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-
-## 🌱 I’m currently learning
-- ## 🌱 I’m currently learning
+ ## 🌱 I’m currently learning
 - MERN (MongoDB, Express.js, React, Node.js) stack development
 
 ## 🤝 Let's Connect
